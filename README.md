@@ -1,5 +1,5 @@
 # Firefighter Robot
-
+![Firefighter Robot](robot.png)
 Robot autónomo programado en AVR Assembly para el microcontrolador ATmega2560.
 
 ## Descripción
